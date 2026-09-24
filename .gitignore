@@ -1,0 +1,16 @@
+rag/
+.venv/
+venv/
+
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.log
+
+outputs/*
+!outputs/.gitkeep
+
+*.index
